@@ -19,7 +19,7 @@
 
 ## 🏗️ Diagrama da Estrutura da API
 <p align="center">
-<img src="desafio-anotaai.png" height="350" width="550"/><br>
+<img src="desafio-anotaai.png" height="350" width="900"/><br>
 </p>
 
 ## :computer:	Descrição das ferramentas
