@@ -19,7 +19,7 @@
 
 ## 🏗️ Diagrama da Estrutura da API
 <p align="center">
-<img src="architecture.jpg" height="450" width="500" alt="API Simuladora de Auto-atendimento"/><br>
+<img src="desafio-anotaai.png" height="350" width="550"/><br>
 </p>
 
 ## :computer:	Descrição das ferramentas
